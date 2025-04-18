@@ -110,14 +110,3 @@ Before you begin, make sure you have the following installed:
 1.  **Open the application:** Open your web browser and go to `http://localhost:3000`.
 2.  **Upload a transcript:** Use the "Upload new transcript" button in the sidebar to upload the text of the document you want to chat about.
 3.  **Chat with the AI:** Type your questions in the chat input box and press "Send". The AI will provide answers based on the content of the uploaded documents.
-
-## File Structure
-
-doctalk/├── app/               # FastAPI backend code│   ├── init.py│   ├── main.py          # Main application file│   ├── models/        # Data models (Pydantic)│   ├── services/      # LLM and Prompt Management│   ├── requirements.txt # Python dependencies│   └── .env           # Environment variables└── frontend/          # React frontend code├── public/└── src/
-## Contributing
-
-Contributions are welcome! If you find a bug or have a suggestion for a new feature, please open an issue or submit a pull request.
-
-## License
-
-[Specify the license here]
