@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+logging
+nltk
+sentence_transformers
+openai
+chromadb
+python-dotenv
+requests
