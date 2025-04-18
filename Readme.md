@@ -84,29 +84,3 @@ Before you begin, make sure you have the following installed:
     ```
 
     This will start the FastAPI server. The `--reload` flag enables hot reloading, so the server will automatically restart when you make changes to the code.
-
-### Frontend Setup
-
-1.  **Navigate to the frontend directory:**
-
-    ```bash
-    cd ../frontend
-    ```
-
-2.  **Install the frontend dependencies:**
-
-    ```bash
-    npm install
-    ```
-
-3.  **Run the frontend**
-
-    ```bash
-    npm run start
-    ```
-
-## Usage
-
-1.  **Open the application:** Open your web browser and go to `http://localhost:3000`.
-2.  **Upload a transcript:** Use the "Upload new transcript" button in the sidebar to upload the text of the document you want to chat about.
-3.  **Chat with the AI:** Type your questions in the chat input box and press "Send". The AI will provide answers based on the content of the uploaded documents.

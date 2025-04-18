@@ -161,4 +161,4 @@ async def data_loader(file: UploadFile = File(...)):
 
 if __name__ == '__main__':
     import uvicorn
-    uvicorn.run("app.main:app", host="0.0.0.0", port=8000, log_level="info", reload=True)
+    uvicorn.run("app.main:app", host="0.0.0.0", port=os.getenv('PORT'), log_level="info", reload=True)
