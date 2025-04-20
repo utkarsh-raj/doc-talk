@@ -67,19 +67,22 @@ Before you begin, make sure you have the following installed:
     * Add your OpenAI API key to the `.env` file:
 
         ```
-        OPENAI_API_KEY=your_openai_api_key
-        LLM_PROVIDER=ollama # or openai
-        CHROMA_PERSIST_DIR="chroma_db"
+        OPENAI_API_KEY=your_openai_key
+        CHROMA_PERSIST_DIR=your_path_to_db
+        LLM_PROVIDER=openai (or ollama)
+        OLLAMA_BASE_URL=base_url_ollame (if using ollama)
+        OLLAMA_MODEL=llama_model (if using ollama)
+        OPENAI_MODEL=gpt-4o-mini
+        PORT=8000
+
         ```
 
-        * Replace `your_openai_api_key` with your actual OpenAI API key.
         * The `LLM_PROVIDER` variable specifies which LLM provider to use. It defaults to `ollama`, but you can set it to `openai` if you prefer to use OpenAI.
         * `CHROMA_PERSIST_DIR` specifies the directory where Chroma will store the database files. The default is `chroma_db`.
 
 5.  **Run the backend:**
 
     ```bash
-    cd app
     uvicorn main:app --reload --host 0.0.0.0 --port 8000
     ```
 
