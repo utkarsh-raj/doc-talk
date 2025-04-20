@@ -83,7 +83,7 @@ Before you begin, make sure you have the following installed:
 5.  **Run the backend:**
 
     ```bash
-    uvicorn main:app --reload --host 0.0.0.0 --port 8000
+    uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
     ```
 
     This will start the FastAPI server. The `--reload` flag enables hot reloading, so the server will automatically restart when you make changes to the code.
