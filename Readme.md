@@ -44,24 +44,17 @@ Before you begin, make sure you have the following installed:
 
     ```bash
     git clone git@github.com:utkarsh-raj/doc-talk.git
-    cd doctalk
+    cd doc-talk
     ```
 
-2.  **Create a virtual environment (recommended):**
 
-    ```bash
-    python3 -m venv venv
-    source venv/bin/activate  # On Linux/macOS
-    venv\Scripts\activate  # On Windows
-    ```
-
-3.  **Install the backend dependencies:**
+2.  **Install the backend dependencies:**
 
     ```bash
     pip install -r requirements.txt
     ```
 
-4.  **Set up environment variables:**
+3.  **Set up environment variables:**
 
     * Create a file named `.env` in the `app` directory.
     * Add your OpenAI API key to the `.env` file:
@@ -80,7 +73,7 @@ Before you begin, make sure you have the following installed:
         * The `LLM_PROVIDER` variable specifies which LLM provider to use. It defaults to `ollama`, but you can set it to `openai` if you prefer to use OpenAI.
         * `CHROMA_PERSIST_DIR` specifies the directory where Chroma will store the database files. The default is `chroma_db`.
 
-5.  **Run the backend:**
+4.  **Run the backend:**
 
     ```bash
     uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
