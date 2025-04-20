@@ -43,7 +43,7 @@ Before you begin, make sure you have the following installed:
 1.  **Clone the repository:**
 
     ```bash
-    git clone <your_repository_url>
+    git clone git@github.com:utkarsh-raj/doc-talk.git
     cd doctalk
     ```
 
