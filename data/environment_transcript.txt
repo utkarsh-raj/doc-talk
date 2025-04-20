@@ -1,0 +1,17 @@
+Sarah Kim: Hey everyone, and welcome back to Tech Tomorrow, the podcast where innovation meets impact. I’m your host, Sarah Kim. Today, we’re shifting gears from silicon to sustainability, and diving into how technology is transforming the way we think about the environment.  
+Jordan Lee: Thanks for having me, Sarah. This is a topic that’s becoming more critical by the day, and tech is playing a bigger role than people realize.  
+Sarah Kim: Absolutely. So let’s start with the basics—what are some of the biggest environmental challenges that tech is starting to help address?  
+Jordan Lee: Climate change is the big one, of course. But we’re also talking about things like waste management, water scarcity, and deforestation. What’s exciting is that we're seeing innovations in areas like carbon capture, smart agriculture, and circular manufacturing models.  
+Sarah Kim: I've seen a lot about AI being used to model climate trends and even track illegal logging through satellite data.  
+Jordan Lee: Exactly. AI and remote sensing have become essential. But there’s also a shift happening with hardware—more companies are designing products to be modular and recyclable. Think laptops with easily swappable parts and smartphones made from recovered ocean plastics.  
+Sarah Kim: I love that. It feels like we're finally moving past just “greenwashing” and into real accountability.  
+Jordan Lee: That’s right. Consumers are getting smarter, and so are investors. ESG—Environmental, Social, and Governance—metrics are now influencing major funding decisions. If a company doesn’t have a sustainability strategy, it’s falling behind.  
+Sarah Kim: What about energy? That’s a big part of tech’s environmental footprint, especially with data centers.  
+Jordan Lee: Huge. But that’s where green energy and efficiency come in. We’re seeing hyperscalers like Google and Microsoft push for carbon-neutral or even carbon-negative operations. Some are using AI to optimize cooling, others are investing in off-grid solar and wind.  
+Sarah Kim: It's amazing to see how quickly things are changing. Five years ago, this felt niche. Now it's mainstream.  
+Jordan Lee: That’s the power of urgency. Climate deadlines are real, and tech is both part of the problem and the solution. The good news? We’re seeing a lot more startups and researchers focus on the solution side.  
+Sarah Kim: Before we close, what’s one environmental innovation you’re personally excited about?  
+Jordan Lee: Honestly? Bio-based materials. We’re talking about packaging made from fungi, fabrics grown from algae, and construction materials derived from carbon waste. It’s biomimicry meets engineering—it’s wild and wonderful.  
+Sarah Kim: I love that. Alright, Jordan, thanks so much for joining us and sharing your insights.  
+Jordan Lee: Always a pleasure, Sarah.  
+Sarah Kim: And to our listeners—thanks for tuning in. If today’s episode inspired you, consider sharing it with a friend or planting a tree. We’ll see you next time on Tech Tomorrow.

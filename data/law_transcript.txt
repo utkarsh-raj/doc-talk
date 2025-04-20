@@ -1,0 +1,17 @@
+Sarah Kim: Hey everyone, and welcome back to Tech Tomorrow, the podcast where we explore the intersection of technology, innovation, and society. I’m your host, Sarah Kim. Today, we’re talking about something that’s becoming increasingly important—technology and the law.  
+Jordan Lee: Thanks, Sarah. This topic is evolving so fast, and it's critical that we understand how laws are adapting—or struggling to adapt—to the pace of innovation.  
+Sarah Kim: Let’s start with one of the biggest legal conversations right now: AI regulation. Governments around the world are scrambling to figure out how to handle it.  
+Jordan Lee: Yeah, and what makes it tricky is that AI doesn’t fit neatly into existing laws. We’re dealing with questions of accountability, transparency, and even human rights—like, who’s responsible if an AI system discriminates or causes harm?  
+Sarah Kim: Exactly. And in the U.S., we’re seeing different states approach it differently, while the EU is pushing ahead with the AI Act, which is much more comprehensive.  
+Jordan Lee: Right. The EU’s approach classifies AI systems by risk—low, medium, high—and sets rules accordingly. It’s a step toward global governance, but we’re still in the early innings.  
+Sarah Kim: And then there's privacy. With all this data being collected and analyzed, laws like GDPR and the California Consumer Privacy Act are more relevant than ever.  
+Jordan Lee: Definitely. And companies have to build compliance into their tech from the start. It’s no longer just a legal issue—it’s a design issue. Privacy by design is becoming a standard.  
+Sarah Kim: One area that doesn’t get talked about enough is algorithmic bias and fairness. Can laws really enforce fairness?  
+Jordan Lee: That’s the million-dollar question. Right now, a lot of it is about transparency and auditability. Regulators want access to the training data, the decision-making logic—but that opens up intellectual property issues too. It’s a delicate balance.  
+Sarah Kim: And now we’re seeing the rise of legal tech—software that helps automate parts of the legal process. Contract review, e-discovery, even dispute resolution.  
+Jordan Lee: Yeah, and that’s transforming how law firms operate. Some worry about jobs being displaced, but others see it as a way to make legal services more accessible and affordable.  
+Sarah Kim: Before we wrap up, what’s one legal trend in tech you think we’ll be hearing a lot more about soon?  
+Jordan Lee: Digital identity. As more of our lives move online, the question of how we prove who we are—securely, privately, and fairly—is becoming huge. Expect new laws around digital wallets, identity verification, and even decentralized ID systems.  
+Sarah Kim: That’s such a fascinating space. Alright, Jordan—thanks so much for unpacking this with us.  
+Jordan Lee: Always a pleasure, Sarah.  
+Sarah Kim: And thanks to our listeners for joining us on Tech Tomorrow. If you enjoyed this episode, leave us a review and share it with a friend. Until next time—stay curious, and stay informed.

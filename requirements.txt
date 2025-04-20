@@ -1,0 +1,11 @@
+fastapi
+uuid
+uvicorn[standard]
+logging
+nltk
+sentence_transformers
+openai
+chromadb
+python-dotenv
+requests
+huggingface_hub[hf_xet]
