@@ -35,8 +35,6 @@ Before you begin, make sure you have the following installed:
 
 * Python 3.7+
 * pip (Python package installer)
-* Node.js
-* npm (Node.js package manager)
 
 ### Backend Setup
 
@@ -56,8 +54,8 @@ Before you begin, make sure you have the following installed:
 
 3.  **Set up environment variables:**
 
-    * Create a file named `.env` in the `app` directory.
-    * Add your OpenAI API key to the `.env` file:
+    * Create a file named `.env` in the `root` directory.
+    * Add your OpenAI API key and other variables to the `.env` file:
 
         ```
         OPENAI_API_KEY=your_openai_key
